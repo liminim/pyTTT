@@ -1,0 +1,11 @@
+pyTTT Notes:
+
+MAIN TODOS FOR BASIC FUNCTIONALITY
+
+-dynamic display setup (create main display, container screens, basic colors, scalable interface)
+-data management (import images, sounds, etc.)
+-event management (user interactivity)
+-state management
+-object management
+-menus
+-logging and error handling
