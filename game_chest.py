@@ -13,4 +13,4 @@ class MainMenu():
         self.games_list = games_list
     
     def _init_buttons(self):
-
+        pass
